@@ -3,7 +3,7 @@
 /build
 # testing
 /coverage
-.next/
+.next/cache/
 # next.js
 /.next/
 /out/
