@@ -1,9 +1,9 @@
 # dependencies
 /node_modules
-
+/build
 # testing
 /coverage
-
+.next
 # next.js
 /.next/
 /out/
